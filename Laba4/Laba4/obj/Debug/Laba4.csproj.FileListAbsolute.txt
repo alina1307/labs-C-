@@ -1,0 +1,7 @@
+C:\Users\Алина\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Алина\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Алина\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\Алина\source\repos\Laba4\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\Алина\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\Алина\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
