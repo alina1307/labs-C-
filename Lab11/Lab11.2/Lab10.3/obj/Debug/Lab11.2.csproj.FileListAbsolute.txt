@@ -1,0 +1,7 @@
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\bin\Debug\Lab10.3.exe.config
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\bin\Debug\Lab10.3.exe
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\bin\Debug\Lab10.3.pdb
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\obj\Debug\Lab11.2.csprojResolveAssemblyReference.cache
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\obj\Debug\Lab11.2.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\obj\Debug\Lab10.3.exe
+C:\Users\Алина\source\repos\Lab10.3\Lab10.3\obj\Debug\Lab10.3.pdb
